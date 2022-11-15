@@ -1,6 +1,5 @@
 <h1>Active Diretory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this lab We're going to walk through how to create an Active Diretory home lab environment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active diretory and windows networking works, so I'd highly recommend running through it a couple time, ask questions where is unclear, and eventually try to build it on your own without watching. 
@@ -20,7 +19,7 @@ In this lab We're going to walk through how to create an Active Diretory home la
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jebXsrg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
